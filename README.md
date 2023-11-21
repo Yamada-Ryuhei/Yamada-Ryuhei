@@ -34,7 +34,7 @@
 
 ### About Me
 ```js
-const riy = () => {
+const septian = () => {
   return {
     pronouns: "He" | "Him",
     country: "Indonesia",
