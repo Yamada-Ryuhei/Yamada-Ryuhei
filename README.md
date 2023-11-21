@@ -26,7 +26,7 @@
 
 ### Stastik 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamada-Ryuhei&show_icons=true&theme=radical)
+![riycoders github stats](https://github-readme-stats.vercel.app/api?username=riycoders&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamada-ryuhei&" alt="yamada-ryuhei" /></p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
