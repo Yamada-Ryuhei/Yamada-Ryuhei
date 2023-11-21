@@ -19,6 +19,12 @@
 
 - ⚡ Fun fact **https://game-sptnnhdntaaa.vercel.app/#r=RY6YE**
 
+  ### Spotify Playing 🎧
+
+[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31peidtjmv4itssgg5awhg24mxoe?si=yvKmz8vFQY2YQZOz5PEbPg&utm_source=copy-link)
+</br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31peidtjmv4itssgg5awhg24mxoe)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sptnnhdnta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sptnnhdnta" height="30" width="40" /></a>
