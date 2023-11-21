@@ -5,6 +5,10 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
+div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamada-ryuhei&label=Profile%20views&color=0e75b6&style=flat" alt="yamada-ryuhei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamada-ryuhei" alt="yamada-ryuhei" /></a> </p>
