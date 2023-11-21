@@ -26,11 +26,11 @@
 
 ### Stastik
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamada-ryuhei&show_icons=true&locale=en&layout=compact" alt="yamada-ryuhei" /></p>
 
-![riycoders github stats](https://github-readme-stats.vercel.app/api?username=riycoders&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riycoders&show_icons=true&layout=compact&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamada-ryuhei&show_icons=true&locale=en" alt="yamada-ryuhei" /></p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
