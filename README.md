@@ -58,5 +58,3 @@ const septian = () => {
 ### Fav Github Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=Yamada-Ryuheis&repo=/r3f-playroom-multiplayer-shooter-game&show_owner=true&theme=radical)](https://github.com/Yamada-Ryuhei/r3f-playroom-multiplayer-shooter-game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=riycoders&repo=Hinata-Md&show_owner=true&theme=radical)](https://github.com/riycoders/Hinata-Md)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=riycoders&repo=Minato-Md&show_owner=true&theme=radical)](https://github.com/riycoders/Minato-Md)
