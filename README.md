@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Septiannhdnata | シティ・アイシャ </h1>
 <h3 align="center">Siswa Gabut dari satim-team</h3>
 
-<img align="right" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yamada-Ryuhei/count.svg?"  />
