@@ -26,7 +26,7 @@
 
 ### Stastik 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamada-ryuhei&show_icons=true&locale=en" alt="yamada-ryuhei" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamada-Ryuhei&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamada-ryuhei&" alt="yamada-ryuhei" /></p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
@@ -54,5 +54,3 @@ const septian = () => {
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sptnnhdnta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sptnnhdnta" /></a><a href="https://ko-fi.com/sptnnhdnta"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sptnnhdnta" /></a></p><br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamada-Ryuhei&show_icons=true&theme=radical)
