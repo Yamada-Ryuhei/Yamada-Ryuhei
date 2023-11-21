@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Septiannhdnata</h1>
+<h1 align="center">Hi 👋, I'm Septiannhdnata シティ・アイシャ<3</h1>
 <h3 align="center">Siswa Gabut dari satim-team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamada-ryuhei&label=Profile%20views&color=0e75b6&style=flat" alt="yamada-ryuhei" /> </p>
