@@ -29,6 +29,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamada-ryuhei&show_icons=true&locale=en" alt="yamada-ryuhei" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamada-ryuhei&" alt="yamada-ryuhei" /></p>
 
+### About Me
+```js
+const riy = () => {
+  return {
+    pronouns: "He" | "Him",
+    country: "Indonesia",
+    bio: "Only god can judge me."
+  }
+}
+```
 
 
 <h3 align="left">Connect with me:</h3>
