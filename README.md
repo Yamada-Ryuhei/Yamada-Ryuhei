@@ -2,7 +2,7 @@
 <h3 align="center">Siswa Gabut dari satim-team</h3>
 
 <div align="center">
-  <img align="center" fit="fill" alt="GIF" src="https://imgflip.com/gif/86qken" />
+  <img align="center" fit="fill" alt="GIF" src="[https://imgflip.com/gif/86qken](https://imgflip.com/gif/86qken)" />
 </div>
 
 
