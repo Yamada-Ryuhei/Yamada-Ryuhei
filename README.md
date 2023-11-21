@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Septiannhdnata | シティ・アイシャ </h1>
 <h3 align="center">Siswa Gabut dari satim-team</h3>
 
-div align="center">
+<div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
