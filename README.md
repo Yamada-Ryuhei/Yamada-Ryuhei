@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [yutta.xcodehoster.com](yutta.xcodehoster.com)
 
-- ⚡ Fun fact **https://game-sptnnhdntaaa.vercel.app/#r=RY6YE**
+- ⚡ Fun fact **https://game-sptnnhdntaaa.vercel.app/**
 
   ### Spotify Playing 🎧
 
