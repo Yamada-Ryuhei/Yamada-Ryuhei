@@ -5,8 +5,9 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Yamada-Ryuhei/count.svg?"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamada-ryuhei&label=Profile%20views&color=0e75b6&style=flat" alt="yamada-ryuhei" /> </p>
