@@ -3,6 +3,11 @@
 
 <img align="center"
   fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+<p align="center">
+  <a href="https://github.com/Yamada-Ryuhei">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Rxzy-MD+V1.2;Created+By+ArxzyDev;Don't+Forget+To+Subscribe;Channel+@Arxzydev;Follow+My+Instagram+@AdrianDev;" alt="ʘᴗʘ">
+</p> 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yamada-Ryuhei/count.svg?"  />
